@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jump902 .
 - 👀 I’m interested in coding .
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning coding .
 - 🌱 or just make fun
 
 <!---
