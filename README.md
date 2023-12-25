@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jump902 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning coding 
-- 🌱 or just make fun ...
+- 🌱 or just make fun ..
 
 <!---
 jump902/jump902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
